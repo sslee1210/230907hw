@@ -1,0 +1,61 @@
+@charset "utf-8";
+.box1 {
+    text-align: center;
+    background-color: rgb(154, 199, 250);
+    font-family: '맑은 고딕', '휴먼아미체', '바탕', serif;
+    color: #FFF;
+    font-size: 18px;
+}
+
+.box2 {
+    background-color: rgba(165, 178, 190, 0.541);
+    text-align: center;
+}
+
+.box2 > label  {
+    text-decoration: underline;
+    color: rgb(252, 119, 11);
+}
+
+.참고1 {
+    color: red;
+    font-size: 13px;
+}
+
+.box2 > a {
+    background-color: black;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+}
+
+
+.box3 {
+    background-color: rgb(255, 229, 180);
+}
+
+ .box3 > h2 {
+    text-decoration: underline;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+}
+
+.box3 > h3 {
+    text-align: right;
+    background-color: rgb(154, 199, 250);
+    color: #FFF;
+}
+
+.or {
+    background-color: orange;
+}
+
+.box3 > h4 {
+    font-size: 20px;
+}
+
+.small {
+    color: red;
+    font-size: 13px;
+}
